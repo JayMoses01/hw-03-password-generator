@@ -14,9 +14,11 @@ I created a random password generator containing the below functionality:
 
 ![password-generator-01](https://user-images.githubusercontent.com/95326705/147402719-cb50e284-28a4-4e34-8e6a-4e3f9173444b.png)
 
-![password-generator-02](https://user-images.githubusercontent.com/95326705/147402723-d3641a7e-2261-414a-bf66-c3f7b20451f6.png)
+![password-generator-02](https://user-images.githubusercontent.com/95326705/147402886-b2524931-2c89-4d51-9807-398c0dc09adf.png)
+
+![password-generator-03](https://user-images.githubusercontent.com/95326705/147402889-4fad403c-3b0e-40c9-9067-9eac251f4604.png)
 
 
 # URL of the deployed application
 
-URL: 
+URL: [https://jaymoses01.github.io/hw-03-password-generator/(url)
