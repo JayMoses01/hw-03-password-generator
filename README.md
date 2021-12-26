@@ -21,4 +21,5 @@ I created a random password generator containing the below functionality:
 
 # URL of the deployed application
 
-URL: [https://jaymoses01.github.io/hw-03-password-generator/(url)
+URL: [https://jaymoses01.github.io/hw-03-password-generator/](url)
+
