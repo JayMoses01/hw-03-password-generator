@@ -24,6 +24,20 @@ I created a random password generator containing the below functionality:
 URL: https://jaymoses01.github.io/hw-03-password-generator/
 
 
+# Technologies used
+
+This application utlizes these technologies:
+* HTML
+* CSS
+* JavaScript
+
+
+# Contact information
+
+* Website: https://jaymoses01.github.io/hw-08-updated-portfolio-page/
+* Email: JayRMoses@gmail.com
+
+
 # MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
