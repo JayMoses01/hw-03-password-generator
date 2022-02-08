@@ -1,4 +1,4 @@
-# Homework 03: Password Generato (hw-03-password-generator) by Jay Moses
+# Homework 03: Password Generator (hw-03-password-generator) by Jay Moses
 
 
 # Description
