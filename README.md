@@ -1,4 +1,4 @@
-# Homework 03: Password G (hw-03-password-generator) by Jay Moses
+# Homework 03: Password Ge (hw-03-password-generator) by Jay Moses
 
 
 # Description
